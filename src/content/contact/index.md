@@ -1,12 +1,10 @@
 ---
-title: "Contact Us"
+title: "Skontaktuj się z nami"
 draft: false
-info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-  contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+info:
+  title: Dlaczego warto się z nami skontaktować?
+  description: Aby odkryć, jak nasza aplikacja może zmienić oblicze Twojego biznesu. Oferujemy innowacyjne narzędzie, dostosowane do potrzeb każdego salonu, od jednoosobowych działalności po duże przedsiębiorstwa. Nie przegap okazji, aby usprawnić zarządzanie i rozwijać swoje usługi z naszą wszechstronną platformą.
+  contacts:
+    - "tel: +48 570 285 206"
+    - "email: [curly@develoart.com](mailto:curly@develoart.com)"
 ---
-
