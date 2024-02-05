@@ -4,7 +4,7 @@ banner:
   content: Nasza aplikacja została zaprojektowana z myślą o usługodawcach na każdym etapie rozwoju biznesu – od początkujących, którzy dopiero rozpoczynają swoją przygodę z branżą, tych prowadzących już jednoosobową działalność, jak również doświadczone salony zatrudniające wielu pracowników.
   image: /images/banner-art.png
   button:
-    label: "Contact Us"
+    label: "Skontaktuj się z nami"
     link: "/contact"
     enable: true
 
@@ -35,7 +35,7 @@ feature:
       content: "buduj swój sukces na solidnych fundamentach. Nasza aplikacja zapewnia dostęp do obszernego kompendium wiedzy na temat marketingu, zarządzania czasem i obsługi klienta"
     - name: "Twój Biznes w internecie"
       icon: "/images/cloud.svg"
-      content: "Rozszerz możliwości swojego biznesu dzięki profesjonalnej stronie internetowej, dostosowanej do potrzeb Twojego salonu, w niskiej cenie abonamentowej"
+      content: "Rozszerz możliwości swojego biznesu dzięki profesjonalnej stronie internetowej, dostosowanej do potrzeb Twojego salonu"
 
 # services
 services:
@@ -76,7 +76,7 @@ services:
       link: /contact
 
   - title: "Strona interentowa dla Twojego salonu"
-    content: "Wzmocnij swoją obecność w internecie. Rozszerz możliwości swojego biznesu dzięki profesjonalnej stronie internetowej, dostosowanej do potrzeb Twojego salonu. To prosty sposób, aby zwiększyć widoczność w sieci, przyciągnąć nowych klientów i zapewnić łatwy dostęp do informacji o Twoich usługach i promocjach. Nasza aplikacja oferuje opcję łatwego dokupienia i personalizacji strony internetowej, co stanowi doskonałe uzupełnienie Twojego profesjonalnego wizerunku."
+    content: "Wzmocnij swoją obecność w internecie. Rozszerz możliwości swojego biznesu dzięki profesjonalnej stronie internetowej, dostosowanej do potrzeb Twojego salonu. To prosty sposób, aby zwiększyć widoczność w sieci, przyciągnąć nowych klientów i zapewnić łatwy dostęp do informacji o Twoich usługach i promocjach. Dla klientów aplikacji oferujemy możliwość łatwego dokupienia i personalizacji strony internetowej (399zł rocznie), co stanowi doskonałe uzupełnienie Twojego profesjonalnego wizerunku."
     images:
       - "/images/service-slide-1.png"
     button:
@@ -97,6 +97,6 @@ call_to_action:
   image: "/images/cta.png"
   button:
     enable: true
-    label: "Contact Us"
+    label: "Skontaktuj się z nami"
     link: "/contact"
 ---
