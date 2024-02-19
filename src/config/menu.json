@@ -5,6 +5,10 @@
       "url": "/"
     },
     {
+      "name": "Lista oczekujących",
+      "url": "/wishlist"
+    },
+    {
       "name": "Cennik",
       "url": "/pricing"
     },

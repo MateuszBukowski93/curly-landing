@@ -1,0 +1,66 @@
+---
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import { getEntryBySlug } from "astro:content";
+
+const entry = await getEntryBySlug("list", "index");
+const { contact_form_action } = config.params;
+const { title, description, info } = entry?.data;
+---
+
+<Base title={title} description={description}>
+  <section class="section">
+    <div class="container">
+      <h1 class="text-center font-normal" set:html={markdownify(title)} />
+      <div class="section column pb-0  m-auto">
+        <div class="col-12 md:col-6 m-auto text-center">
+          <p class="mt-0" set:html={markdownify(info?.description)} />
+          <ul class="contact-list mt-5 list-none pl-0">
+            {
+              info?.contacts?.map((contact: string) => (
+                <li>
+                  <strong class="text-dark" set:html={markdownify(contact)} />
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+        <div class="col-12 md:col-6 m-auto  mt-5">
+          <form class="contact-form flex flex-col" method="POST" action={contact_form_action}>
+            <div class="mb-3">
+              <input
+                class="form-input w-full rounded"
+                name="name"
+                type="text"
+                placeholder="Imię"
+                required
+              />
+            </div>
+            <div class="mb-3">
+              <input
+                class="form-input w-full rounded"
+                name="email"
+                type="email"
+                placeholder="Twój email"
+                required
+              />
+            </div>
+            <div class="mb-3">
+              <input
+                id="dataProcessingConsent"
+                name="dataProcessingConsent"
+                type="checkbox"
+                required
+              />
+              <label for="dataProcessingConsent" class="ml-2 text-sm text-gray-600">
+                Zgoda na przetwarzanie danych w celu kontaktu
+              </label>
+            </div>
+            <button type="submit" class="btn btn-primary my-4 mx-auto">Wyślij</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>
