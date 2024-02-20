@@ -48,4 +48,8 @@ const { title, description, plans, call_to_action } = entry.data;
     </div>
   </section>
   <Cta cta={call_to_action} />
+  <script type="module">
+       import {firebaseLog} from '../config/firebase'
+       firebaseLog('pricing_view')
+  </script>
 </Base>
