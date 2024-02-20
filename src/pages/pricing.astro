@@ -50,6 +50,9 @@ const { title, description, plans, call_to_action } = entry.data;
   <Cta cta={call_to_action} />
   <script type="module">
        import {firebaseLog} from '../config/firebase'
-       firebaseLog('pricing_view')
+       document.addEventListener("astro:page-load", () => {
+        firebaseLog('pricing_view')
+    });
+
   </script>
 </Base>

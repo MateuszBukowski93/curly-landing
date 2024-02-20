@@ -57,10 +57,19 @@ const { title, description, info } = entry?.data;
                 Zgoda na przetwarzanie danych w celu kontaktu
               </label>
             </div>
-            <button type="submit" class="btn btn-primary my-4 mx-auto">Wyślij</button>
+            <button id='wishlistButton'type="submit" class="btn btn-primary my-4 mx-auto">Wyślij</button>
           </form>
         </div>
       </div>
     </div>
   </section>
+  <script>
+           import {firebaseLog} from '../config/firebase'
+    const wishlistButton = document.getElementById("wishlistButton");
+    if(wishlistButton){
+      wishlistButton.addEventListener('click', () => {      
+        firebaseLog('sendRequest');
+      });
+    }
+  </script>
 </Base>

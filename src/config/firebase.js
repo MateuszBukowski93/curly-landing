@@ -21,4 +21,5 @@ const firebaseConfig = {
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 export const analytics = getAnalytics(app);
-export const firebaseLog = (stuffToLog) => logEvent(analytics, stuffToLog);
+export const firebaseLog = (event) =>
+  logEvent(analytics, { source: "landing_page", event });
