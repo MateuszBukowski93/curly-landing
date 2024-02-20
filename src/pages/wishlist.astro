@@ -64,10 +64,12 @@ const { title, description, info } = entry?.data;
     </div>
   </section>
   <script>
-           import {firebaseLog} from '../config/firebase'
+    import {firebaseLog} from '../config/firebase'
     const wishlistButton = document.getElementById("wishlistButton");
     if(wishlistButton){
-      wishlistButton.addEventListener('click', () => {      
+      wishlistButton.addEventListener('click', (e) => { 
+        e.preventDefault()
+        console.log('sendRequest')
         firebaseLog('sendRequest');
       });
     }
