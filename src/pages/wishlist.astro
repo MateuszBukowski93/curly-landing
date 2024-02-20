@@ -27,7 +27,7 @@ const { title, description, info } = entry?.data;
           </ul>
         </div>
         <div class="col-12 md:col-6 m-auto  mt-5">
-          <form class="contact-form flex flex-col" method="POST" action={contact_form_action}>
+          <form id='whishlist-form' class="contact-form flex flex-col" method="POST" action={contact_form_action}>
             <div class="mb-3">
               <input
                 class="form-input w-full rounded"
@@ -65,13 +65,17 @@ const { title, description, info } = entry?.data;
   </section>
   <script>
     import {firebaseLog} from '../config/firebase'
-    const wishlistButton = document.getElementById("wishlistButton");
-    if(wishlistButton){
-      wishlistButton.addEventListener('click', (e) => { 
-        e.preventDefault()
-        console.log('sendRequest')
-        firebaseLog('sendRequest');
-      });
-    }
+    document.addEventListener('DOMContentLoaded', function () {
+    const form = document.getElementById('whishlist-form') as HTMLFormElement | null;
+    if(form)
+    form.addEventListener('submit', function (e) {
+      e.preventDefault()
+        if (form.checkValidity()) {
+            console.log('Formularz jest prawidłowy, wykonuję dodatkową logikę.');
+            firebaseLog('aaa')
+            form.reset()
+        }
+    })})
+
   </script>
 </Base>
