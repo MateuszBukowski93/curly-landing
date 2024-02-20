@@ -154,7 +154,7 @@ const { banner, feature, services, workflow, call_to_action } = homepage.data;
     import "swiper/css";
     import "swiper/css/pagination";
     import { Autoplay, Pagination } from "swiper/modules";
-
+    import '../config/firebase'
     // astro:page-load event is fired when the page is loaded
     document.addEventListener("astro:page-load", () => {
       new Swiper(".service-carousel .swiper", {
