@@ -64,15 +64,20 @@ const { title, description, info } = entry?.data;
     </div>
   </section>
   <script>
-    import {firebaseLog} from '../config/firebase'
+    import { saveObjectToCollection} from '../config/firebase'
     document.addEventListener('DOMContentLoaded', function () {
     const form = document.getElementById('whishlist-form') as HTMLFormElement | null;
     if(form)
     form.addEventListener('submit', function (e) {
       e.preventDefault()
         if (form.checkValidity()) {
-            console.log('Formularz jest prawidłowy, wykonuję dodatkową logikę.');
-            firebaseLog('aaa')
+              // Wyciąganie danych z formularza
+      const formData = new FormData(form);
+      const objectData = {}; // Obiekt do przechowywania danych z formularza
+      formData.forEach(function(value, key){
+        objectData[key] = value;
+      });
+          void saveObjectToCollection('wishlist', objectData)
             form.reset()
         }
     })})
