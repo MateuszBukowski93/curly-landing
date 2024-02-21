@@ -15,6 +15,7 @@
     "@astrojs/rss": "^4.0.4",
     "@astrojs/sitemap": "^3.0.5",
     "@astrojs/tailwind": "^5.1.0",
+    "@emailjs/browser": "^4.1.0",
     "@vercel/analytics": "^1.2.1",
     "@vercel/speed-insights": "^1.0.10",
     "astro": "^4.3.2",
@@ -32,7 +33,8 @@
     "remark-collapse": "^0.1.2",
     "remark-toc": "^9.0.0",
     "sharp": "0.33.1",
-    "swiper": "^11.0.5"
+    "swiper": "^11.0.5",
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@tailwindcss/forms": "^0.5.7",
