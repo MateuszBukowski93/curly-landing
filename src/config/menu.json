@@ -50,6 +50,10 @@
         {
           "text": "Polityka prywatności",
           "url": "/privacy-policy"
+        },
+        {
+          "text": "Regulamin",
+          "url": "/terms-conditions"
         }
       ]
     }

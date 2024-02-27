@@ -15,7 +15,7 @@ feature:
     - name: "Zarządzaj wizytami"
       icon: "/images/code.svg"
       content: "Nasza aplikacja mobilna umożliwia szybkie i intuicyjne planowanie, zmiany oraz anulowanie wizyt"
-    - name: "kontrola nad usługami"
+    - name: "Kontrola nad usługami"
       icon: "/images/oop.svg"
       content: " Dostosuj ofertę swojego salonu, dodając, edytując lub usuwając usługi wraz z ich cenami i czasem trwania."
     - name: "Zarządzanie pracownikami"
@@ -57,7 +57,7 @@ services:
       label: Zamów już dziś
       link: /contact
 
-  - title: "kontrola nad usługami"
+  - title: "Kontrola nad usługami"
     content: "Dostosuj ofertę swojego salonu, dodając, edytując lub usuwając usługi wraz z ich cenami i czasem trwania. Nasza aplikacja pozwala na łatwe zarządzanie pełną gamą usług, umożliwiając klientom wybór idealnego zabiegu, dopasowanego do ich potrzeb."
     images:
       - "/images/service-slide-1.png"
