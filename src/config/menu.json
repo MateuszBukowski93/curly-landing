@@ -28,24 +28,12 @@
         {
           "text": "Cennik",
           "url": "/pricing"
-        },
-        {
-          "text": "Quick Start",
-          "url": "#"
         }
       ]
     },
     {
       "name": "Product",
       "menu": [
-        {
-          "text": "Features",
-          "url": "#"
-        },
-        {
-          "text": "Platform",
-          "url": "#"
-        },
         {
           "text": "Cennik",
           "url": "/pricing"
@@ -60,12 +48,8 @@
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Polityka prywatności",
           "url": "/privacy-policy"
-        },
-        {
-          "text": "Terms & Conditions",
-          "url": "/terms-conditions"
         }
       ]
     }
