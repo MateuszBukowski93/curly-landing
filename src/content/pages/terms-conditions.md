@@ -12,12 +12,12 @@ draft: false
    - Klient – osoba fizyczna lub osoba prawna, która stworzyła konto w Serwisie Internetowym;
    - Konto Klienta – wyodrębnione miejsce w Programie DeveloArt, w którym zapisywane są dane Klienta i Użytkowników, do którego Klient lub Użytkownik uzyskuje dostęp po skutecznym zalogowaniu się w Serwisie Internetowym przy użyciu loginu i hasła;
    - Okres aktywacji – czas, przez który DeveloArt udostępnia Klientowi Program CurlyCraft;
-   - Pakiet – zespół funkcjonalności programu CurlyCraft, wybranych przez Użytkownika z udostępnionych przez VurlyCraft opcji, w tym określające wysokość miesięcznej opłaty za jednego Użytkownika;
-   - Program VurlyCraft – program komputerowy i utwór w rozumieniu ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, będący przedmiotem usług świadczonych VurlyCraft;
-   - Regulamin – niniejszy Regulamin korzystania z programu VurlyCraft;
+   - Pakiet – zespół funkcjonalności programu CurlyCraft, wybranych przez Użytkownika z udostępnionych przez CurlyCraft opcji, w tym określające wysokość miesięcznej opłaty za jednego Użytkownika;
+   - Program CurlyCraft – program komputerowy i utwór w rozumieniu ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych, będący przedmiotem usług świadczonych CurlyCraft;
+   - Regulamin – niniejszy Regulamin korzystania z programu CurlyCraft;
    - RODO – rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z 27 kwietnia 2016 roku w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE;
    - Serwis Internetowy – serwis znajdujący się na domenie https://curlycraft.vercel.app/;
-   - Strona – Klient lub VurlyCraft samodzielnie;
+   - Strona – Klient lub CurlyCraft samodzielnie;
    - Strony – Klient i DeveloArt łącznie;
    - Użytkownik – osoba wpisana do programu CurlyCraft przez Klienta;
 
