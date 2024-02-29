@@ -44,3 +44,11 @@ h6,
 .h6 {
   @apply text-h6;
 }
+
+#consent {
+  width: 15px;
+  height: 15px;
+}
+#consent:checked {
+  background-color: #0aa8a7;
+}
