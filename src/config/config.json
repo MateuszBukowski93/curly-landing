@@ -20,7 +20,7 @@
   "nav_button": {
     "enable": true,
     "label": "rozpocznij bezpłatny okres próbny",
-    "link": "/pricing"
+    "link": "/wishlist"
   },
 
   "params": {
