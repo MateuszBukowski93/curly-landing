@@ -2,7 +2,7 @@
 banner:
   title: Zrewolucjonizuj zarządzanie Twoim Biznesem!
   content: Nasza aplikacja została zaprojektowana z myślą o usługodawcach na każdym etapie rozwoju biznesu – od początkujących, którzy dopiero rozpoczynają swoją przygodę z branżą, tych prowadzących już jednoosobową działalność, jak również doświadczone salony zatrudniające wielu pracowników.
-  image: /images/banner-art.png
+  image: /images/main.png
   button:
     label: "Skontaktuj się z nami"
     link: "/contact"
@@ -42,7 +42,7 @@ services:
   - title: "Przypomnienia dla klientów"
     content: "Niech nieobecności na wizytach staną się przeszłością! Nasza aplikacja usprawnia komunikację z klientami, wysyłając automatyczne przypomnienia o nadchodzących terminach bezpośrednio na ich telefony komórkowe za pośrednictwem SMS. Ta funkcja nie tylko minimalizuje ryzyko niepojawienia się klienta na umówionym spotkaniu, ale także utrzymuje stały kontakt między Twoim salonem a klientami, zapewniając, że są oni zawsze na bieżąco i gotowi na swoje wizyty."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/notification.png"
     button:
       enable: true
       label: Zamów już dziś
@@ -51,7 +51,7 @@ services:
   - title: "Zarządzaj wizytami"
     content: "Zarządzanie terminarzem staje się prostsze niż kiedykolwiek dzięki naszej aplikacji. Zapewnia ona łatwość w planowaniu, modyfikowaniu i odwoływaniu spotkań, co sprawia, że operacje w Twoim salonie przebiegają gładko i bez zakłóceń. Bez względu na to, czy przyjmujesz rezerwacje od nowych klientów, czy dostosowujesz istniejące terminy, nasze rozwiązanie umożliwia realizację tych zadań w sposób szybki i bezproblemowy, wykorzystując do tego tylko kilka prostych kliknięć."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/events.png"
     button:
       enable: true
       label: Zamów już dziś
@@ -60,7 +60,7 @@ services:
   - title: "Kontrola nad usługami"
     content: "Dostosuj ofertę swojego salonu, dodając, edytując lub usuwając usługi wraz z ich cenami i czasem trwania. Nasza aplikacja pozwala na łatwe zarządzanie pełną gamą usług, umożliwiając klientom wybór idealnego zabiegu, dopasowanego do ich potrzeb."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/services.png"
     button:
       enable: true
       label: Zamów już dziś
@@ -69,16 +69,16 @@ services:
   - title: "Zarządzanie pracownikami bez wysiłku"
     content: " Ułatw sobie życie dzięki naszej aplikacji, która pozwala na zarządzanie harmonogramami pracowników, śledzenie ich dostępności, a także przypisywanie ich do konkretnych usług i wizyt. Zapewnij płynną organizację pracy i maksymalizuj satysfakcję klientów."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/workers_managment.png"
     button:
       enable: true
       label: Zamów już dziś
       link: /contact
 
   - title: "Strona interentowa dla Twojego salonu"
-    content: "Wzmocnij swoją obecność w internecie. Rozszerz możliwości swojego biznesu dzięki profesjonalnej stronie internetowej, dostosowanej do potrzeb Twojego salonu. To prosty sposób, aby zwiększyć widoczność w sieci, przyciągnąć nowych klientów i zapewnić łatwy dostęp do informacji o Twoich usługach i promocjach. Dla klientów aplikacji oferujemy możliwość łatwego dokupienia i personalizacji strony internetowej (399zł rocznie), co stanowi doskonałe uzupełnienie Twojego profesjonalnego wizerunku."
+    content: "Wzmocnij swoją obecność w internecie. Rozszerz możliwości swojego biznesu dzięki profesjonalnej stronie internetowej, dostosowanej do potrzeb Twojego salonu. To prosty sposób, aby zwiększyć widoczność w sieci, przyciągnąć nowych klientów i zapewnić łatwy dostęp do informacji o Twoich usługach i promocjach. Dla klientów aplikacji oferujemy możliwość łatwego dokupienia i personalizacji strony internetowej (w zależności od pakietu 199zł / 399zł / 599zł rocznie), co stanowi doskonałe uzupełnienie Twojego profesjonalnego wizerunku."
     images:
-      - "/images/service-slide-1.png"
+      - "/images/website.png"
     button:
       enable: true
       label: Zamów już dziś
