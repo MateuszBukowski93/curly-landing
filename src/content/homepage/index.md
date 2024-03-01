@@ -14,33 +14,33 @@ feature:
   features:
     - name: "Zarządzaj wizytami"
       icon: "/images/code.svg"
-      content: "Nasza aplikacja mobilna umożliwia szybkie i intuicyjne planowanie, zmiany oraz anulowanie wizyt"
+      content: "Nasza aplikacja mobilna oferuje efektywne i intuicyjne narzędzia do planowania, modyfikowania oraz anulowania wizyt, umożliwiając płynne zarządzanie Twoim harmonogramem."
     - name: "Kontrola nad usługami"
       icon: "/images/oop.svg"
-      content: " Dostosuj ofertę swojego salonu, dodając, edytując lub usuwając usługi wraz z ich cenami i czasem trwania."
+      content: "Dostosowuj ofertę swojego salonu w łatwy sposób, dodając, modyfikując lub usuwając usługi wraz z ich cenami i przewidywanym czasem realizacji."
     - name: "Zarządzanie pracownikami"
       icon: "/images/user-clock.svg"
-      content: " Zarządzaj harmonogramami pracowników, śledź ich dostępności, a także przypisz ich do konkretnych usług i wizyt."
+      content: "Efektywnie zarządzaj harmonogramami pracowników, monitoruj ich dostępność oraz przydzielaj ich do odpowiednich usług i wizyt."
     - name: "Przypomnienia dla klientów"
       icon: "/images/love.svg"
-      content: "Zapomnij o nieobecnościach na umówionych wizytach! Aplikacja automatycznie informuje Twoich klientów o zbliżających się terminach"
+      content: "Zapomnij o nieobecnościach klientów na umówionych wizytach. Nasza aplikacja automatycznie przypomina Twoim klientom o nadchodzących terminach."
     - name: "Kontroluj Wyniki"
       icon: "/images/speedometer.svg"
-      content: "Śledź wyniki finansowe, efektywność pracowników i wykorzystanie czasu pracy salonu. Dzięki temu łatwo zidentyfikujesz obszary wymagające poprawy i maksymalizujesz zyski."
+      content: "Monitoruj finanse, efektywność pracowników oraz wykorzystanie czasu pracy w Twoim salonie. Dzięki naszej aplikacji łatwo wykryjesz obszary do poprawy i zwiększysz swoje zyski."
     - name: "Ekskluzywne zniżki dla Twojego salonu. "
       icon: "/images/cloud.svg"
-      content: "Współpracujemy z wiodącymi hurtowniami i dostawcami produktów kosmetycznych, oferując użytkownikom naszej aplikacji specjalne zniżki."
+      content: "Nawiązaliśmy współpracę z czołowymi hurtowniami i dostawcami produktów kosmetycznych, aby zapewnić użytkownikom naszej aplikacji wyjątkowe zniżki."
     - name: "Kompedium Wiedzy Biznesowej"
       icon: "/images/speedometer.svg"
-      content: "buduj swój sukces na solidnych fundamentach. Nasza aplikacja zapewnia dostęp do obszernego kompendium wiedzy na temat marketingu, zarządzania czasem i obsługi klienta"
+      content: "Buduj swój sukces na mocnych fundamentach. Nasza aplikacja oferuje dostęp do bogatego zbioru wiedzy o marketingu, zarządzaniu czasem i obsłudze klienta."
     - name: "Twój Biznes w internecie"
       icon: "/images/cloud.svg"
-      content: "Rozszerz możliwości swojego biznesu dzięki profesjonalnej stronie internetowej, dostosowanej do potrzeb Twojego salonu"
+      content: "Rozwiń potencjał swojego biznesu dzięki profesjonalnej witrynie internetowej, skrojonej na miarę potrzeb Twojego salonu."
 
 # services
 services:
   - title: "Przypomnienia dla klientów"
-    content: "Niech nieobecności na wizytach staną się przeszłością! Nasza aplikacja usprawnia komunikację z klientami, wysyłając automatyczne przypomnienia o nadchodzących terminach bezpośrednio na ich telefony komórkowe za pośrednictwem SMS. Ta funkcja nie tylko minimalizuje ryzyko niepojawienia się klienta na umówionym spotkaniu, ale także utrzymuje stały kontakt między Twoim salonem a klientami, zapewniając, że są oni zawsze na bieżąco i gotowi na swoje wizyty."
+    content: "Nasza aplikacja rewolucjonizuje sposób komunikacji z klientami, automatycznie wysyłając przypomnienia o nadchodzących terminach bezpośrednio na ich telefony komórkowe poprzez SMS. Ta funkcjonalność nie tylko znacząco redukuje ryzyko nieobecności klientów na umówionych spotkaniach, ale również zapewnia ciągły kontakt między Twoim salonem a klientami. Dzięki temu, klienci są zawsze na bieżąco i przygotowani na swoje wizyty."
     images:
       - "/images/notification.png"
     button:
@@ -49,7 +49,7 @@ services:
       link: /contact
 
   - title: "Zarządzaj wizytami"
-    content: "Zarządzanie terminarzem staje się prostsze niż kiedykolwiek dzięki naszej aplikacji. Zapewnia ona łatwość w planowaniu, modyfikowaniu i odwoływaniu spotkań, co sprawia, że operacje w Twoim salonie przebiegają gładko i bez zakłóceń. Bez względu na to, czy przyjmujesz rezerwacje od nowych klientów, czy dostosowujesz istniejące terminy, nasze rozwiązanie umożliwia realizację tych zadań w sposób szybki i bezproblemowy, wykorzystując do tego tylko kilka prostych kliknięć."
+    content: "Nasza aplikacja przekształca zarządzanie terminarzem w niezwykle prosty proces. Umożliwia ona łatwe planowanie, modyfikowanie oraz anulowanie spotkań, zapewniając płynność operacji w Twoim salonie. Niezależnie od tego, czy przyjmujesz rezerwacje od nowych klientów, czy dostosowujesz istniejące terminy, nasze narzędzie pozwala na szybką i efektywną realizację tych zadań za pomocą kilku kliknięć."
     images:
       - "/images/events.png"
     button:
@@ -58,7 +58,7 @@ services:
       link: /contact
 
   - title: "Kontrola nad usługami"
-    content: "Dostosuj ofertę swojego salonu, dodając, edytując lub usuwając usługi wraz z ich cenami i czasem trwania. Nasza aplikacja pozwala na łatwe zarządzanie pełną gamą usług, umożliwiając klientom wybór idealnego zabiegu, dopasowanego do ich potrzeb."
+    content: "Dostosuj ofertę swojego salonu, dodając, edytując lub usuwając usługi wraz z ich cenami i czasem trwania, aby idealnie odpowiadała oczekiwaniom Twoich klientów. Nasza aplikacja umożliwia łatwe zarządzanie pełnym spektrum usług, pozwalając klientom na wybór zabiegów perfekcyjnie dopasowanych do ich indywidualnych potrzeb."
     images:
       - "/images/services.png"
     button:
@@ -67,7 +67,7 @@ services:
       link: /contact
 
   - title: "Zarządzanie pracownikami bez wysiłku"
-    content: " Ułatw sobie życie dzięki naszej aplikacji, która pozwala na zarządzanie harmonogramami pracowników, śledzenie ich dostępności, a także przypisywanie ich do konkretnych usług i wizyt. Zapewnij płynną organizację pracy i maksymalizuj satysfakcję klientów."
+    content: "Zminimalizuj wysiłek związany z organizacją pracy dzięki naszej aplikacji. Zarządzaj harmonogramami pracowników, monitoruj ich dostępność i przydzielaj ich do odpowiednich usług oraz wizyt, co zapewnia efektywną organizację pracy i podnosi poziom satysfakcji klientów."
     images:
       - "/images/workers_managment.png"
     button:
@@ -76,9 +76,18 @@ services:
       link: /contact
 
   - title: "Strona interentowa dla Twojego salonu"
-    content: "Wzmocnij swoją obecność w internecie. Rozszerz możliwości swojego biznesu dzięki profesjonalnej stronie internetowej, dostosowanej do potrzeb Twojego salonu. To prosty sposób, aby zwiększyć widoczność w sieci, przyciągnąć nowych klientów i zapewnić łatwy dostęp do informacji o Twoich usługach i promocjach. Dla klientów aplikacji oferujemy możliwość łatwego dokupienia i personalizacji strony internetowej (w zależności od pakietu 199zł / 399zł / 599zł rocznie), co stanowi doskonałe uzupełnienie Twojego profesjonalnego wizerunku."
+    content: "Wzmocnij swoją obecność w internecie i rozszerz możliwości swojego biznesu dzięki profesjonalnej stronie internetowej, która jest dostosowana do specyficznych potrzeb Twojego salonu. Jest to prosty sposób na zwiększenie widoczności online, przyciągnięcie nowych klientów i zapewnienie łatwego dostępu do informacji o Twoich usługach oraz promocjach. Oferujemy klientom aplikacji możliwość łatwego zakupu i personalizacji strony internetowej (zależnie od pakietu: 199 zł/399 zł/599 zł rocznie lub w miesięcznych ratach już od 19,99 zł), co jest doskonałym uzupełnieniem Twojego profesjonalnego wizerunku."
     images:
       - "/images/website.png"
+    button:
+      enable: true
+      label: Zamów już dziś
+      link: /contact
+
+  - title: "Kompendium Wiedzy Biznesowej"
+    content: "Rozwiń swoje kompetencje biznesowe z naszym Kompendium Wiedzy Biznesowej - Twoim źródłem cennych informacji i porad, dostępnych na dedykowanej podstronie. Nasza aplikacja oferuje ekskluzywny dostęp do bogatego zbioru materiałów edukacyjnych, w tym artykułów, poradników i badań przypadków, zaprojektowanych, by wspierać rozwój Twojego salonu. Od strategii marketingowych, przez zarządzanie zasobami ludzkimi, po finanse i obsługę klienta - pokrywamy wszystkie kluczowe aspekty prowadzenia biznesu w branży usługowej"
+    images:
+      - "/images/education.png"
     button:
       enable: true
       label: Zamów już dziś
