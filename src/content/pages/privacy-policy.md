@@ -8,8 +8,8 @@ draft: false
 
 Administratorem danych:
 
-- osób odwiedzających i korzystających ze strony internetowej https://CurlyCraft.pl/ (“Strona Internetowa”);
-- osób korzystających z aplikacji na urządzenia mobilne – CurlyCraft (“Aplikacja”);
+- osób odwiedzających i korzystających ze strony internetowej https://BeautyCraft.pl/ (“Strona Internetowa”);
+- osób korzystających z aplikacji na urządzenia mobilne – BeautyCraft (“Aplikacja”);
 - Klientów, którzy założyli Konto Klienta;
 - osób, które kontaktują się z nami za pośrednictwem poczty e-mail, telefonu, formularza kontaktowego na naszej Stronie Internetowej lub innych dostępnych kanałów komunikacji;
 - kandydatów do pracy / współpracy;

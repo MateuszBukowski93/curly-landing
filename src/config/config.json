@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "CurlyCraft",
-    "base_url": "https://curlycraft.vercel.app/p",
+    "title": "BeautyCraft",
+
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -31,8 +31,8 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "astro boilerplate"
+    "meta_author": "develoart",
+    "meta_image": "/images/favicon.png",
+    "meta_description": "beautycraft app"
   }
 }
