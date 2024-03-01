@@ -13,7 +13,7 @@ feature:
   title: Digitalizacja w Twoim Biznesie
   features:
     - name: "Zarządzaj wizytami"
-      icon: "/images/code.svg"
+      icon: "/images/booking.svg"
       content: "Nasza aplikacja mobilna oferuje efektywne i intuicyjne narzędzia do planowania, modyfikowania oraz anulowania wizyt, umożliwiając płynne zarządzanie Twoim harmonogramem."
     - name: "Kontrola nad usługami"
       icon: "/images/oop.svg"
@@ -22,19 +22,19 @@ feature:
       icon: "/images/user-clock.svg"
       content: "Efektywnie zarządzaj harmonogramami pracowników, monitoruj ich dostępność oraz przydzielaj ich do odpowiednich usług i wizyt."
     - name: "Przypomnienia dla klientów"
-      icon: "/images/love.svg"
+      icon: "/images/notification.svg"
       content: "Zapomnij o nieobecnościach klientów na umówionych wizytach. Nasza aplikacja automatycznie przypomina Twoim klientom o nadchodzących terminach."
     - name: "Kontroluj Wyniki"
       icon: "/images/speedometer.svg"
       content: "Monitoruj finanse, efektywność pracowników oraz wykorzystanie czasu pracy w Twoim salonie. Dzięki naszej aplikacji łatwo wykryjesz obszary do poprawy i zwiększysz swoje zyski."
     - name: "Ekskluzywne zniżki dla Twojego salonu. "
-      icon: "/images/cloud.svg"
+      icon: "/images/discount.svg"
       content: "Nawiązaliśmy współpracę z czołowymi hurtowniami i dostawcami produktów kosmetycznych, aby zapewnić użytkownikom naszej aplikacji wyjątkowe zniżki."
     - name: "Kompedium Wiedzy Biznesowej"
-      icon: "/images/speedometer.svg"
+      icon: "/images/knowledge.svg"
       content: "Buduj swój sukces na mocnych fundamentach. Nasza aplikacja oferuje dostęp do bogatego zbioru wiedzy o marketingu, zarządzaniu czasem i obsłudze klienta."
     - name: "Twój Biznes w internecie"
-      icon: "/images/cloud.svg"
+      icon: "/images/website.svg"
       content: "Rozwiń potencjał swojego biznesu dzięki profesjonalnej witrynie internetowej, skrojonej na miarę potrzeb Twojego salonu."
 
 # services
