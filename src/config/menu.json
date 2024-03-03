@@ -9,10 +9,6 @@
       "url": "/wishlist"
     },
     {
-      "name": "Cennik",
-      "url": "/pricing"
-    },
-    {
       "name": "Kontakt",
       "url": "/contact"
     },
@@ -22,24 +18,6 @@
     }
   ],
   "footer": [
-    {
-      "name": "Company",
-      "menu": [
-        {
-          "text": "Cennik",
-          "url": "/pricing"
-        }
-      ]
-    },
-    {
-      "name": "Product",
-      "menu": [
-        {
-          "text": "Cennik",
-          "url": "/pricing"
-        }
-      ]
-    },
     {
       "name": "Support",
       "menu": [

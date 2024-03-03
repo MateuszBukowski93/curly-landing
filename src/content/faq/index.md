@@ -15,5 +15,5 @@ faqs:
     answer: Każdy salon to oddzielna subskrypcja, ale wszystkie obsłużysz w jednej aplikacji :)
 
   - title: Pracuję dla kogoś i używamy tej aplikacji, ale również wykonuję własne zlecenia, czy mogę korzystać jednocześnie z tej samej aplikacji?
-    answer: Tak! W przypadku, gdy jesteś fryzjerem etatowym, ale również wykonujesz swoje zlecenia, możesz założyć aplikację jako właściciel salonu. Napisz do nas, pomożemy Ci to obsłużyć.
+    answer: Tak! W przypadku, gdy jesteś pracownikiem na etacie, ale również wykonujesz swoje zlecenia, możesz założyć aplikację jako właściciel salonu. Napisz do nas, pomożemy Ci to obsłużyć.
 ---
