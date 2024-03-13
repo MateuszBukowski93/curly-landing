@@ -1,7 +1,6 @@
 {
   "site": {
     "title": "BeautyCraft",
-
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
